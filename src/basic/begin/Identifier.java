@@ -30,7 +30,7 @@ public class Identifier {
         //키워드란 이미 어떠한 기능을 내포하고 있는 단어.
         // String class = "8반"; (x)
         String Class = "8반";
-        String  classNumber = "8반";
+        String classNumber = "8반";
 
         // 6. 한글이나 한자같은 식별자도 문법적으로 허용하기는 합니다만... 권장x
 
