@@ -17,6 +17,9 @@ public class ConditionalOperator {
         String result = x > y ? "x는 y보다 큽니다." : "x는 y보다 작습니다.";
         System.out.println("result = " + result);
 
+        // 연산자의 우선순위
+        // 괄호 -> 참조(.) -> 단항 -> 이항 -> 삼항 -> 대입
+
         // 난수(랜덤값)를 발생시키는 메서드 Math.random();
         // 0.0 이상 1.0미만의 실수 난수 값을 반환해 줍니다. 0.0 <= x < 1.0
         double rn = Math.random();
